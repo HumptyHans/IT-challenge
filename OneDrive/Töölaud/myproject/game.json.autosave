@@ -13,7 +13,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.gamename",
-    "projectFile": "C:\\Users\\evaan\\OneDrive\\Töölaud\\game\\GDevelop projects\\My project2\\game.json",
+    "projectFile": "C:\\Users\\evaan\\OneDrive\\Töölaud\\myproject\\game.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
